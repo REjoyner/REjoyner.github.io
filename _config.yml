@@ -103,9 +103,9 @@ analytics:
 author:
   name             : "Jaehyun Cheong"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Incheon or California"
-  email            :
+  bio              : "Backend Junior Engineer 정재현입니다. Node.js/Express 기반의 서버 구축, AWS를 front 및 backend 배포, 그리고 API documents 유지, 보수를 메인으로 작업하고 있습니다."
+  location         : "인천광역시 미추홀구 인로 47번길"
+  email            : "wjdwogus786@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
